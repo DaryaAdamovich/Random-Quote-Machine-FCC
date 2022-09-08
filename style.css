@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+#quote-box {
+    text-align: center;
+}
+
+#text {
+    color: #1f0d0b;
+    font-family: 'Poppins', sans-serif;
+    font-size: 25px;
+    margin: 20px;
+    font-weight: bold;
+}
+
+#author {
+    color: #1f0d0b;
+    font-family: 'Poppins', sans-serif;
+    padding-right: 400px;
+    margin: 50px;
+}
+
+#quote1 {
+    color: #1f0d0b;
+    font-size: 90px;
+    margin: 40px;
+    padding-top: 10px;
+}
+
+#new-quote {
+    margin: 30px;
+}
+
+.row2 {
+    background-image: url("https://thumbs.dreamstime.com/b/%E6%B5%B7%E4%B8%8A%E6%97%A5%E8%90%BD%E7%9F%A2%E9%87%8F%E5%9B%BE%E5%85%A8%E6%99%AF%E5%9B%BE-%E6%B5%B7%E6%B4%8B%E7%9F%A2%E9%87%8F%E5%9B%BE%E5%85%A8%E6%99%AF%E5%B1%B1%E6%99%AF%E8%83%8C%E6%99%AF%E4%B8%AD%E7%9A%84%E6%97%A5%E8%90%BD%E6%97%A5%E5%87%BA-217026649.jpg");
+    height: 360px;
+}
+
+.row1 {
+    background-color: #ffe888;
+    padding-top: 10px;
+}
